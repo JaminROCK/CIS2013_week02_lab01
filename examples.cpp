@@ -3,11 +3,11 @@
 using namespace std;
 
 int main(){
-	//Defines a room's dimensions
+	//A "room's" "dimensions"
 	int room_length = 10;
 	int room_width = 10;
 	char question; 
-	//float room_radius = 10.0; <--- it's important to see the decimal point's significance with floats
+	//float room_radius = 10.0; <--- it's important to see the decimal point's "significance" with floats
 	 bool keep_running = true;
 	 while(keep_running){
 		cout << "Enter the room length:" << endl;
