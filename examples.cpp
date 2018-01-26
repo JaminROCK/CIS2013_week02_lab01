@@ -22,7 +22,7 @@ int main(){
 		//cout << "Unless your room is a circle " <<
 		//(room_radius * room_radius) * 3.14 << endl;
 		
-		if (room_length == room_width){
+		if (room_length == room_width){ //and this is how to do an inline comment
 		cout << "Length and Width are the same" << endl;		
 		}
 		else{
